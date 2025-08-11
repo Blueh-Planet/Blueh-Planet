@@ -1,0 +1,5 @@
+body{ margin:0; font-family:Inter, sans-serif; background:#061324; color:#ddd }
+.app{ max-width:1000px; margin:10px auto; padding:12px }
+header{ display:flex; align-items:center; justify-content:space-between }
+.lobby, .game-area { background:#0b1630; padding:12px; border-radius:8px }
+input, button { padding:6px 8px; border-radius:6px; border: none }
